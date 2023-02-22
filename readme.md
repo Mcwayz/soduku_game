@@ -14,9 +14,5 @@ This is an attempt at creating a non-template based Sudoku generator. Generating
 
 ### Quick start
 
-1. Clone the repo: `git clone git://github.com/gtarawneh/sudoku.git`. 
+1. Clone the repo: `git clone https://github.com/Mcwayz/soduku_game.git`. 
 2. Open the Visual Studio Solution file Sudoku.sln
-
-### Screenshot
-
-![Screenshot](https://raw.github.com/gtarawneh/sudoku/master/screenshots/screenshot1.png "GUI")
